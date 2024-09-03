@@ -9,9 +9,11 @@ def output_language_result(languages):
 
 with col1:
     st.title("Gil Joshua S. Yabao")
+    st.write("\n")
+    st.write("\n")
+    st.write("\n")
     st.write("An IT enthusiast studying in Cebu Institute of Technology University")
-    st.text("Species: Human")
-    st.text("Gender: Male")
+    
     
 
 with col2:
